@@ -3172,6 +3172,12 @@ section.pull-up {
   color: #ef494d
 }
 
+.splide__slide{
+  height: 20px;
+  width: 20px
+}
+
+
 @media (max-width:1199px) {
   .md-text-extra-small {
     font-size: 10px!important;
